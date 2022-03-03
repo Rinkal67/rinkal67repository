@@ -8,6 +8,7 @@ public class Student {
         System.out.println("Welcome to all of you");}
 		public void display2() {
 		System.out.println("Automation is very easy");
+		System.out.println("Added the line");
 	}
 		public static void main(String[] args) {
 			
